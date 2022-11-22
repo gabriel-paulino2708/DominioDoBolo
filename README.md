@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   
   <head>
@@ -20,16 +19,14 @@
   </header>
 
     <div class="meio">
-         <h1><font color="#008080">ESCOLA PREPARATÓRIA EMPOWERMENTE</h1></font>
-         <h1><font color="#009000">Domínio Do Bolo</h1></font>
-    </div>
+         <h1><font color="#009000">Domínio Do Bolo</font>
 
 <body bgcolor="Orange">                                                      
 
-       <h2> <b>Missão</h2><b>
-       <h4> <p>Promover empoderamento das capacidades intelectuais através do <strong><b style=font-size:22px><font color="#008080"> Método de Ensino Empower </strong></font></b></font color> e proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias</h4></p>
-       <h2> <b>MISSÃO</h2><b>
-       <h4> <p>Trazer alegria para as pessoas por meio dos bolos, de maneira rápida, fácil e barata.</h4></p>
+       <h2> <b>Missão<b>
+       <h4> <p>Promover empoderamento das capacidades intelectuais através do <strong><font color="#008080"> Domínio do Bolo </strong> e proporcionar desenvolvimento nas habilidades tecnológicas, oferecendo aos nossos alunos alternativas inovadoras para ampliar o conhecimento frente as tecnologias
+       <h2> <b>MISSÃO<b>
+       <h4> <p>Trazer alegria para as pessoas por meio dos bolos, de maneira rápida, fácil e barata.</p>
 
        <h2><b>Visão</h2><b>
        <h4> <p>Ampliar o atendimento educacional com cursos na área de Gestão Educacional, Tecnologias para educadores, Acadêmicos e Profissionais de diversas áreas de atuação.</h4> 
