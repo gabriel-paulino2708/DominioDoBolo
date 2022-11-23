@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-  
-  <head>
-    <meta charset="UTF-8">
-    <title>Domínio do Bolo</title>
-   <link  rel="stylesheet" href="dominio.css">
-  </head>
-
-  <header>
+ <header>
     <div class="caixa">
       <h1><img width="600px" height="300px" src="logo.jpeg"></h1>
            <nav>
