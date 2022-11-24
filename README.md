@@ -5,6 +5,7 @@
             <ul>
               <li><a href="DominioDoBolo.html">Home</a></li>
               <li><a href="Produtos.html">Produtos</a></li>
+              <li><a href="Contato.html">Pedido</a></li>
             </ul>
           </nav>
         </div>
