@@ -5,7 +5,7 @@
             <ul>
               <li><a href="DominioDoBolo.html">Home</a></li>
               <li><a href="Produtos.html">Produtos</a></li>
-              <li><a href="Contato.html">Pedido</a></li>
+              <li><a href="https://forms.gle/D7SxrKbmm3pgnk1t5">Pedido</a></li>
             </ul>
           </nav>
         </div>
